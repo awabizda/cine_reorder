@@ -42,7 +42,7 @@ There are no specific CPU or GPU requirements. Runtime and storage needs depend 
 3. Run the script:
 
    ```bash
-   python reorder_sa_multistack.py
+   python MuSCiRe.py
    ```
 
 4. Enter the input folder path, then the output folder path when prompted.
@@ -95,7 +95,7 @@ Before distributing the GUI, add clear validation and error reporting, a progres
 ```text
 .
 ├── README.md
-└── reorder_sa_multistack.py
+└── MuSCiRe.py
 ```
 
 ## License
