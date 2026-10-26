@@ -1,4 +1,4 @@
-# Cine Reorder
+# MultiSlice Cine Reorder (MuSCiRe)
 
 A small Python utility for reordering multi-slice cardiac cine DICOM series. It scans files in an input folder, groups readable DICOMs by `SeriesInstanceUID`, and assigns sequential `InstanceNumber` values to series that have multiple slice locations and multiple trigger times.
 
